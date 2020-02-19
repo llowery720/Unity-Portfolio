@@ -1,0 +1,26 @@
+tutorial for help with player movement and shooting
+https://www.youtube.com/watch?v=LNLVOjbrQj4
+Wizard Player Character Sprite
+https://opengameart.org/content/topdown-wizard
+Fireball Sprite
+https://opengameart.org/content/fireball-flying-through-the-air
+Grass Texture
+https://opengameart.org/content/grass-1
+tutorial for help with health bar slider
+https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=634s
+tutorial for help with enemies following player
+https://www.youtube.com/watch?v=C1my9i_5RDw
+Ghost Sprite
+https://opengameart.org/content/skeleton-and-ghost-spritesheets-ars-notoria
+Partial Script for spawning enemies
+https://www.youtube.com/watch?v=1h2yStilBWU
+Portal Sprite
+https://opengameart.org/content/portals
+Heart Sprite
+https://opengameart.org/content/heart-6
+Ranged Goblin Enemy Sprite
+https://opengameart.org/content/pixelated-goblin
+Green fireballs
+https://opengameart.org/content/charge-shots
+gold skull
+https://opengameart.org/content/gold-skull
